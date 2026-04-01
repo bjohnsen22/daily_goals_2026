@@ -2,7 +2,7 @@
   "name": "Daglige Mål",
   "short_name": "Mål",
   "description": "Registrer dine daglige helsemål og sync til Google Sheets",
-  "start_url": "/",
+  "start_url": "/daily_goals_2026/",
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#0a0a0f",
